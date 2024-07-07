@@ -20,22 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+How to go into stars?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Podcast generated using AI about Aerospace Engineering: what is, how to master and career.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+AIs:
+    Loudly: Geração de Música para introdução e finalização
+    ChatGPT: Geração de Roteiro
+    ElevenLabs: Geração de Áudio
+Softwares: Audacity para mesclar, cortar e editar os audios.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Gerei o Roteiro pelo ChatGPT, os áudios no ElevenLabs, a música no Loudly e depois editei tudo no Audacity
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Satisfatório. Vou deixar o arquivo em mp3 no Repositório.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A AI ElevenLabs precisa ficar configurando toda hora cada voz em sua similiaridade, alteração de estilo e tipo de conversor e ficar alternando na troca das vozes e fazer o download toda a hora. O ChatGPT só basta ser específico que é fácil gerar. No Loudly, precisa de um conhecimento básico de música para assegurar a tonalidade, tempo e estilo. Não achei nenhuma AI interessante para juntar todos os áudios e fazer a edição para mim.
 ```
 
 ### Exemplos e Insigths
